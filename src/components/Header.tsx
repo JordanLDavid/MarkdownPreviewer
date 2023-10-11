@@ -1,17 +1,18 @@
-import {HeaderProps} from './../types/events';
+import {HeaderProps} from './../types/types';
 
 import styled from "styled-components";
 
-const HeaderContainer = styled.div`
+const HeaderContainer = styled.header`
     display: flex;
     justify-content: space-between;
     align-items: center;
     background-color:gray;
-    width: 100vw;
+    height:5%;
 `;
 
-const Title = styled.a`
+const Title = styled.h1`
     color:black;
+    font-size: 10px;
     left: 10px;
 `;
 const StyledButton = styled.button`

@@ -1,16 +1,17 @@
 import styled from "styled-components";
-
-const InputContainer = styled.input`
-    width:50%;
-    bottom:0;
-    left:0;
-    height:100%;
-    resize:none;
+import { MarkdownInputProps } from "../types/types";
+const InputContainer = styled.div`
+    display:flex;
+    width:50%
     `;
 
-const StyledTextArea = styled(InputContainer)``;
+const StyledTextArea = styled.textarea`
+    width:100%;
+    resize:none`;
 
-export const MarkdownInput = () => {
-    return (<StyledTextArea/>);
+export const MarkdownInput = (input:MarkdownInputProps) => {
+    return (<InputContainer>
+                <StyledTextArea defaultValue={input.value} onChange={(event)=>input.onChange(event)}/>
+            </InputContainer>);
 }
 
