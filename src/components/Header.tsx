@@ -12,7 +12,7 @@ const HeaderContainer = styled.header`
 
 const Title = styled.h1`
     color:black;
-    font-size: 10px;
+    font-size: 20px;
     left: 10px;
 `;
 const StyledButton = styled.button`

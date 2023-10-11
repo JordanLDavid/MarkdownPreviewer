@@ -2,7 +2,9 @@ import styled from "styled-components";
 import { MarkdownInputProps } from "../types/types";
 const InputContainer = styled.div`
     display:flex;
-    width:50%
+    width:50%;
+    min-width:50%;
+    max-width:50%;
     `;
 
 const StyledTextArea = styled.textarea`
