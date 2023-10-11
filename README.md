@@ -75,7 +75,7 @@ To get a local copy up and running follow these simple example steps.
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/JordanLDavid/TodoApp.git
+   git clone https://github.com/JordanLDavid/MarkdownPreviewer.git
    ```
 2. Install NPM packages
    ```sh
@@ -87,7 +87,7 @@ To get a local copy up and running follow these simple example steps.
    ```
 <!-- CONTACT -->
 ## Contact
-Project Link: [https://github.com/JordanLDavid/TodoApp](https://github.com/JordanLDavid/TodoApp)
+Project Link: [https://github.com/JordanLDavid/MarkdownPreviewer](https://github.com/JordanLDavid/MarkdownPreviewer)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
