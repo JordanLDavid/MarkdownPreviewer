@@ -21,7 +21,7 @@ function App() {
     setShowGuide(!showGuide);
   } ;
 
-  const handleChange = (event:React.ChangeEvent) => {
+  const handleChange = (event:React.ChangeEvent<HTMLTextAreaElement>) => {
     setMarkdown(event.target.value);
   };
 
