@@ -10,7 +10,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <h3 align="center">ToDo App</h3>
+  <h3 align="center">Markdown Previewer</h3>
 
   <p align="center">
     App that performs Markdown from text area
@@ -47,7 +47,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://jld-todoapp.netlify.app/)
+[![Product Name Screen Shot][product-screenshot]](https://jld-markdownpreviewer.netlify.app/)
 
 This is a simple Markdown Previewr App made with ReactJs and Vite
 
@@ -102,7 +102,7 @@ Project Link: [https://github.com/JordanLDavid/MarkdownPreviewer](https://github
 [issues-shield]: https://img.shields.io/github/issues/JordanLDavid/MarkdownPreviewer.svg?style=for-the-badge
 [issues-url]: https://github.com/JordanLDavid/MarkdownPreviewer/issues
 [license-shield]: https://img.shields.io/github/license/JordanLDavid/MarkdownPreviewer.svg?style=for-the-badge
-[license-url]: https://github.com/JordanLDavid/TodoApp/blob/master/LICENSE.txt
+[license-url]: https://github.com/JordanLDavid/MarkdownPreviewer/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/JordanLenardDavid
 [product-screenshot]: images/product-screenshot.JPG
